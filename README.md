@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Hey there! So glad you took the time to visit our website!
 
 You can use the [editor on GitHub](https://github.com/Bel-R-Corman/Grimm-With-a-Happy-Ending/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
