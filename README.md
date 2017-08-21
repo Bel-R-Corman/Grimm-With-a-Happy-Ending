@@ -1,8 +1,6 @@
 ## Hey there! So glad you took the time to visit our website!
 
-You can use the [editor on GitHub](https://github.com/Bel-R-Corman/Grimm-With-a-Happy-Ending/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Our goal: to create a game where children can build an existing fairy tale around themselves.
 
 ### Markdown
 
@@ -23,7 +21,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[<iframe allowtransparency="true" width="485" height="402" src="//scratch.mit.edu/projects/embed/171571456/?autostart=false" frameborder="0" allowfullscreen></iframe>](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
