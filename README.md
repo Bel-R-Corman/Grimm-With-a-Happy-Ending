@@ -11,5 +11,4 @@
   A lot of the game involves a lot of recycling of code, images, and backgrounds. We didn't have much time to create a lot of diversity within the coding and images. We had to create a lot of broadcasts to allow for certain features to function. Have as many broadcasts as we do made it hard to know what is wrong when the game glitches out, and it made it really hard when trying to test the game because it can be really slow. On top of having a ton of broadcasts we also had a ton of hidden things in the background. Having so many things running also contributed to how fast the program functioned. This also made it sort of difficult when you wanted certain things to appear. There was such a clear vision what the game was to include made it so there was very little room for compromise or mistakes.
  Our project and the inner workings of it can be found on [Scratch] here:
   
-
-<iframe allowtransparency="true" width="485" height="402" src="//scratch.mit.edu/projects/embed/171957348/?autostart=false" frameborder="0" allowfullscreen></iframe>
+ <iframe allowtransparency="true" width="485" height="402" src="//scratch.mit.edu/projects/embed/171957348/?autostart=false" frameborder="0" allowfullscreen></iframe>
